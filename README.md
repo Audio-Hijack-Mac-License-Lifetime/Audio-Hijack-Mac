@@ -1,7 +1,7 @@
 # Audio Hijack – Audio Recording & Capture
 
 <div align="center">  
-  <img src="https://static.macupdate.com/products/11067/l/audio-hijack-logo.png?v=1658418048" width="250" alt="Audio Hijack Logo"/>  
+  <img src="https://library.columbia.edu/content/dam/techtools/software/audio-hijack-logo.png" width="250" alt="Audio Hijack Logo"/>  
 </div>  
 
 <br>  
